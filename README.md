@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 💁 If you need any help or questions, just ask me through my contacts.
