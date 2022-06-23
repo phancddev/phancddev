@@ -23,3 +23,24 @@ Here are some ideas to get you started:
     <a href="https://replit.com/@nguyenntdev"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a> -->
 <br><br>
 </p>
+<h2 align="center">Welcome to my GitHub profile, let's take a brief look!</h2>
+🌏 I'm from Vietnam.
+
+🏫 I'm a student at Nguyen Tri Phuong Secondary School in Hue City, Vietnam.
+
+💥 I'm passionate about programming, listening to music, playing basketball and playing some rhythm and fps game.
+
+💻 Now, I'm learning about programming in <b><a href="https://global.funix.edu.vn/en/home/">FUNiX</a>
+
+🚀 Skills
+<p align="center">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+<br><br>
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+💁 If you need any help or questions, just ask me through my contacts.
