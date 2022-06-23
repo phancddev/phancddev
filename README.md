@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🏫 I'm a student at Nguyen Tri Phuong Secondary School in Hue City, Vietnam.
 
-💥 I'm passionate about programming, listening to music, playing basketball and playing some rhythm and fps game.
+💥 I'm passionate about programming, listening to music, playing basketball and playing some rhythm and fps gamesgit add .
 
 💻 Now, I'm learning about programming in <b><a href="https://global.funix.edu.vn/en/home/">FUNiX</a>
 
@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phancddev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Most Used Languages ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev&theme=radical)
+![Phancddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev&theme=radical)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=dark&layout=compact) -->
+
 
 ## GitHub Stats ##
-![NCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev&show_icons=true&theme=apprentice)
+![Phancddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev&show_icons=true&theme=apprentice)
 
 <hr>
 <h2 align="center">That's all, have a nice day ✋</h2>
