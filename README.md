@@ -41,11 +41,12 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+</p>t
 
 💁 If you need any help or questions, just ask me through my contacts.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev&theme=radical)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phancddev)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phancddev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phancddev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev=contribs,prs)
