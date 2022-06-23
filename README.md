@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phancddev)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phancddev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+![](https://komarev.com/ghpvc/?username=phancddev)
+## Github Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phancddev&theme=radical)](https://www.github.com/quocthinhvo)
 ## Most Used Languages ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=dark&layout=compact)
 ## GitHub Stats ##
@@ -60,4 +63,5 @@ Here are some ideas to get you started:
 
 
 <hr>
+
 <h2 align="center">That's all, have a nice day ✋</h2>
