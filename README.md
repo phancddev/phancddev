@@ -46,3 +46,4 @@ Here are some ideas to get you started:
 💁 If you need any help or questions, just ask me through my contacts.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phancddev)](https://github.com/anuraghazra/github-readme-stats)
