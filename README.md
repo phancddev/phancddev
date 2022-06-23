@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phancddev&theme=radical)](https://www.github.com/quocthinhvo)
 ## Most Used Languages ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-c0d3r&theme=dark&layout=compact)
-<!-- ## GitHub Stats ##
-![Phancddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev&theme=radical) -->
+## GitHub Stats ##
+![Phancddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev&theme=radical)
 
 
 
