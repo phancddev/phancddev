@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 </p>
 
 💁 If you need any help or questions, just ask me through my contacts.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancddev&theme=radical)
