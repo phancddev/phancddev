@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br><h2 align="center">Hi!, I'm <a href="https://github.com/phancddev">Cong Dung Phan</a> 👋</h2>
 <p align="center">
-<a href="https://www.facebook.com/phancd.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/phancongdungg"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
   <!-- <a href="https://gitlab.com/kakangocthien109"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab"></a>  -->
    <a href="mailto:phancddev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a> 
     <!-- <a href="https://nguyennt.pages.dev"><img src="https://img.shields.io/badge/kaka&#39;s%20corner-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" alt="Kaka&#39;s Corner"></a>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🏫 I'm a student at Nguyen Tri Phuong Secondary School in Hue City, Vietnam.
 
-💥 I'm passionate about programming, listening to music, playing basketball and playing some rhythm and fps gamesgit add .
+💥 I'm passionate about programming, listening to music, playing basketball and playing some rhythm and fps games.
 
 💻 Now, I'm learning about programming in <b><a href="https://global.funix.edu.vn/en/home/">FUNiX</a>
 
