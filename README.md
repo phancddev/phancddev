@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 💥 I'm passionate about programming, listening to music, playing basketball and playing some rhythm and fps games.
 
-💻 Now, I'm learning about programming in <b><a href="https://global.funix.edu.vn/en/home/">FUNiX</a>
+<!--💻 Now, I'm learning about programming in <b><a href="https://global.funix.edu.vn/en/home/">FUNiX</a> -->
+💻 Now, I'm learning about programming in <b><a href="https://www.google.com/">Google</a>
 
 🚀 Skills
 <p align="center">
